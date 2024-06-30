@@ -59,6 +59,6 @@ export const modalTheme = defineMultiStyleConfig({
 	baseStyle,
 	sizes,
 	defaultProps: {
-		size: 'md'
+		size: 'xl'
 	}
 })
